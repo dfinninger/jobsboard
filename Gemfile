@@ -43,3 +43,6 @@ group :development, :test do
   gem 'spring'
 end
 
+# Let's get that good Bootstrap
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
